@@ -8,10 +8,10 @@ Included:
 Pricing in this demo:
 - 0 followers: Rs. 250
 - 3,000–4,000 followers: Rs. 3,000
-Regions: UK, USA, Germany
+Regions: UK, USA, Germany , Japan all country 
 
 Important WhatsApp note:
-The number you dictated was 0314196869 (10 digits). Pakistan mobile numbers usually have 11 digits. Please verify the number. In index.html, find WHATSAPP_NUMBER and change it to the correct number in international format, digits only (e.g. 923XXXXXXXXX).
+The number you dictated was 03014196869 (10 digits). Pakistan mobile numbers usually have 11 digits. Please verify the number. In index.html, find WHATSAPP_NUMBER and change it to the correct number in international format, digits only (e.g. 923014196869).
 
 How to use:
 1. Unzip this file on your phone or computer.
